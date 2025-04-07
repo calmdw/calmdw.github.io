@@ -26,7 +26,7 @@ Feel free to reach out for a small chat on:
 
 ---
 
-## 🚀 Featured Research: GenPiH
+## 🚀 Research:
 
 ### *A General Peg-in-Hole Assembly Policy Based on Domain Randomized Reinforcement Learning*
 
