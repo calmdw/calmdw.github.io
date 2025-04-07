@@ -12,5 +12,3 @@ Hej! I am the research assitant at [Maersk Mc-Kinney Moller Institute](https://w
 My research focus on robot learning and robotic manipulation. Recently I am using using reinforcement learning methods to achieve generalizable and high-precision robotic assembly and IsaacLab(IsaacSim) is my current favorite RL frame and simulator.
 
 Welcome for small chat about reinforcement learning, imitation learning and sim2real.
-
-# [Linkedin](https://www.linkedin.com/in/xinyuliu666/)
