@@ -7,14 +7,28 @@ redirect_from:
   - /about.html
 ---
 
-Hej! I am the research assitant at [Maersk Mc-Kinney Moller Institute](https://www.sdu.dk/en/om-sdu/institutter-centre/mmmi_maersk_mckinney_moeller), University of Southern Denmark. Before that, I have several interships on [AI center, CVUT](https://www.aic.fel.cvut.cz/), [TAMS, Universität Hamburg](https://tams.informatik.uni-hamburg.de/) and DTU Aqua. I graduated from Autonomous System master program at [Denmark Technical University](https://www.dtu.dk/english/).
+Hej! 👋 I'm a Research Assistant at the [Maersk Mc-Kinney Moller Institute](https://www.sdu.dk/en/om-sdu/institutter-centre/mmmi_maersk_mckinney_moeller), University of Southern Denmark.  
 
-My research focus on robot learning and robotic manipulation. Recently I am using using reinforcement learning methods to achieve generalizable and high-precision robotic assembly and IsaacLab(IsaacSim) is my current favorite RL frame and simulator.
+Previously, I held research internships at the [AI Center, CVUT](https://www.aic.fel.cvut.cz/), [TAMS Group, Universität Hamburg](https://tams.informatik.uni-hamburg.de/), and DTU Aqua. I hold a Master's degree in Autonomous Systems from [Technical University of Denmark (DTU)](https://www.dtu.dk/english/).
 
-Welcome for small chat about reinforcement learning, imitation learning and sim2real.
+---
 
-Research:
-## GenPiH: A General Peg-in-Hole Assembly Policy Based on Domain Randomized Reinforcement Learning
+### 🧠 Research Interests
+
+My work focuses on **robot learning** and **robotic manipulation**, particularly using reinforcement learning (RL) to achieve **generalizable** and **high-precision robotic assembly**.
+
+Currently, I'm exploring sim-to-real transfer techniques and building generalizable control policies with [Isaac Lab](https://github.com/NVIDIA-Omniverse/IsaacLab)—my favorite framework and simulator at the moment.
+
+Feel free to reach out for a casual chat on:
+- Reinforcement Learning
+- Imitation Learning
+- Sim2Real Robotics
+
+---
+
+## 🚀 Featured Research: GenPiH
+
+### *A General Peg-in-Hole Assembly Policy Based on Domain Randomized Reinforcement Learning*
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
 
@@ -27,15 +41,16 @@ Research:
   <div style="flex: 1; min-width: 250px;">
     <p><strong>Xinyu Liu</strong>, Aljaž Kramberger, Leon Bodenhagen</p>
     <p><em>The Maersk Mc-Kinney Moller Institute, University of Southern Denmark</em></p>
-    <p><strong>34th International Conference on Robotics in Alpe-Adria-Danube Region (RAAD 2025)</strong> – Oral Presentation</p>
+    <p><strong>34th International Conference on Robotics in Alpe-Adria-Danube Region (RAAD 2025)</strong> — <em>Oral Presentation</em></p>
 
     <p>
-      <strong>GenPiH</strong> is a reinforcement learning-based general policy for peg-in-hole assembly with 6-DOF generalization. Trained using Proximal Policy Optimization (PPO) and domain randomization in Isaac Sim, it achieves nearly 100% success across 8000+ unseen hole poses. It directly transfers to a UR10e robot without task-specific tuning.
+      <strong>GenPiH</strong> is a reinforcement learning-based general policy for peg-in-hole assembly with 6-DOF generalization. Trained using PPO and domain randomization in Isaac Sim, GenPiH achieves nearly 100% success across 8000+ unseen hole poses. It transfers directly to a UR10e robot <em>without any task-specific tuning</em>.
     </p>
 
     <p>
-      🔗 <a href="https://your-paper-link.com" target="_blank">Paper[Waiting]</a> &nbsp;|&nbsp;
+      🔗 <a href="https://your-paper-link.com" target="_blank">Paper</a> &nbsp;|&nbsp;
       💻 <a href="https://github.com/calmdw/genpih" target="_blank">Code</a> &nbsp;|&nbsp;
+      🌐 <a href="https://calmdw.github.io/genpih" target="_blank">Project Website</a>
     </p>
   </div>
 
