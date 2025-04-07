@@ -14,18 +14,28 @@ My research focus on robot learning and robotic manipulation. Recently I am usin
 Welcome for small chat about reinforcement learning, imitation learning and sim2real.
 
 Research:
+<section id="genpih" style="margin: 3em 0;">
+  <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 1.5em;">
+    <!-- Teaser Image -->
+    <img src="https://github.com/user-attachments/assets/afec79b5-856f-40a1-b944-4241a4c056a0" alt="GenPiH Teaser" style="width: 300px; border-radius: 12px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-<section id="genpih" style="margin: 2em 0;">
-  <h2>🧠 GenPiH: General Peg-in-Hole Assembly</h2>
-  <p><strong>GenPiH</strong> is a reinforcement learning-based policy that solves peg-in-hole tasks with <strong>6-DOF generalization</strong> using <em>domain randomized PPO</em>. It achieves nearly 100% success over 8,000+ unique hole poses and transfers directly to a real UR10e robot without task-specific tuning.</p>
-  <ul>
-    <li>✅ Handles wide pose variation: XYZ and RPY (±25°)</li>
-    <li>🤖 Real-world tested on UR10e</li>
-    <li>🎯 Trained in Isaac Sim with domain randomization</li>
-  </ul>
-  <p>
-    📄 <a href="https://your-paper-link.com" target="_blank">Read the RAAD 2025 Paper</a> &nbsp;|&nbsp;
-    🧪 <a href="https://github.com/calmdw/GenPiH/tree/main" target="_blank">View Code on GitHub</a>
-  </p>
-  <img src="https://github.com/user-attachments/assets/afec79b5-856f-40a1-b944-4241a4c056a0" alt="GenPiH Diagram" style="max-width: 100%; margin-top: 1em;">
+    <!-- Text Content -->
+    <div style="flex: 1; min-width: 250px;">
+      <h3 style="margin-bottom: 0.5em;">GenPiH: A General Peg-in-Hole Assembly Policy Based on Domain Randomized Reinforcement Learning</h3>
+      <p><strong>Xinyu Liu</strong>, Aljaž Kramberger, Leon Bodenhagen</p>
+      <p><em>The Maersk Mc-Kinney Moller Institute, University of Southern Denmark</em></p>
+      <p><strong>34th International Conference on Robotics in Alpe-Adria-Danube Region (RAAD 2025)</strong> – Oral Presentation</p>
+
+      <p>
+        GenPiH is a general policy for peg-in-hole insertion that achieves 100% success in simulation across 8000+ 6-DOF poses, and transfers directly to a real UR10e robot with no task-specific tuning. Trained using Proximal Policy Optimization and domain randomization in Isaac Sim.
+      </p>
+
+      <!-- Links -->
+      <p>
+        🔗 <a href="https://your-paper-link.com" target="_blank">Paper</a> &nbsp;|&nbsp;
+        💻 <a href="https://github.com/calmdw/genpih" target="_blank">Code</a> &nbsp;|&nbsp;
+        🌐 <a href="https://calmdw.github.io/genpih" target="_blank">Project Website</a>
+      </p>
+    </div>
+  </div>
 </section>
