@@ -15,7 +15,7 @@ Previously, I held research internships at the [AI Center, CVUT](https://www.aic
 
 ### 🧠 Research Interests
 
-My work focuses on **robot learning** and **robotic manipulation**, recently using reinforcement learning (RL) to achieve **generalizable** and **high-precision robotic assembly** with [Isaac Lab](https://github.com/NVIDIA-Omniverse/IsaacLab)—my favorite framework and simulator at the moment.
+My work focuses on **robot learning** and **robotic manipulation**, recently using reinforcement learning (RL) to achieve **generalizable** and **high-precision robotic assembly** with **Isaac Lab(Isaac Sim)**—my favorite framework and simulator at the moment.
 
 Currently, I'm exploring the best way to combine classical robotic control methods and learning-based methods to achieve 0.2mm precision peg-in-hole assembly while keeping strong pose generalization ability.
 
