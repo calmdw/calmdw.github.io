@@ -34,9 +34,8 @@ Research:
     </p>
 
     <p>
-      🔗 <a href="https://your-paper-link.com" target="_blank">Paper</a> &nbsp;|&nbsp;
+      🔗 <a href="https://your-paper-link.com" target="_blank">Paper[Waiting]</a> &nbsp;|&nbsp;
       💻 <a href="https://github.com/calmdw/genpih" target="_blank">Code</a> &nbsp;|&nbsp;
-      🌐 <a href="https://calmdw.github.io/genpih" target="_blank">Project Website</a>
     </p>
   </div>
 
