@@ -22,7 +22,7 @@ Currently, I'm exploring the best way to combine classical robotic control and l
 Feel free to reach out for a small chat on:
 - Reinforcement Learning
 - Imitation Learning
-- Sim2Real Robotics
+- Sim2Real
 
 ---
 
