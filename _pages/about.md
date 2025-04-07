@@ -33,10 +33,10 @@ Feel free to reach out for a small chat on:
 <div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
 
   <!-- Teaser Image: ~38% width to match golden ratio -->
-  <img src="https://github.com/user-attachments/assets/1ba56528-c9b1-49d8-b478-9257c4e5b645" 
+  <img src="https://github.com/user-attachments/assets/1cac5868-0c91-4885-b4bd-e72ddb1efa42" 
        alt="GenPiH Teaser" 
        style="flex: 0 0 38%; max-width: 38%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-  <img src="https://github.com/user-attachments/assets/1cac5868-0c91-4885-b4bd-e72ddb1efa42" 
+  <img src="https://github.com/user-attachments/assets/1ba56528-c9b1-49d8-b478-9257c4e5b645" 
        alt="GenPiH Teaser" 
        style="flex: 0 0 38%; max-width: 38%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
