@@ -13,4 +13,4 @@ My research focus on robot learning and robotic manipulation. Recently I am usin
 
 Welcome for small chat about reinforcement learning, imitation learning and sim2real.
 
-[Linkedin](https://www.linkedin.com/in/xinyuliu666/)
+#[Linkedin](https://www.linkedin.com/in/xinyuliu666/)
