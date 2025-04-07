@@ -9,17 +9,17 @@ redirect_from:
 
 Hej! 👋 I'm a Research Assistant at the [Maersk Mc-Kinney Moller Institute](https://www.sdu.dk/en/om-sdu/institutter-centre/mmmi_maersk_mckinney_moeller), University of Southern Denmark.  
 
-Previously, I held research internships at the [AI Center, CVUT](https://www.aic.fel.cvut.cz/), [TAMS Group, Universität Hamburg](https://tams.informatik.uni-hamburg.de/), and DTU Aqua. I hold a Master's degree in Autonomous Systems from [Technical University of Denmark (DTU)](https://www.dtu.dk/english/).
+Previously, I held research internships at the [AI Center, CVUT](https://www.aic.fel.cvut.cz/), [TAMS Group, Universität Hamburg](https://tams.informatik.uni-hamburg.de/), and DTU Aqua. I hold a Master's degree in Autonomous Systems from [Technical University of Denmark](https://www.dtu.dk/english/).
 
 ---
 
 ### 🧠 Research Interests
 
-My work focuses on **robot learning** and **robotic manipulation**, particularly using reinforcement learning (RL) to achieve **generalizable** and **high-precision robotic assembly**.
+My work focuses on **robot learning** and **robotic manipulation**, recently using reinforcement learning (RL) to achieve **generalizable** and **high-precision robotic assembly** with [Isaac Lab](https://github.com/NVIDIA-Omniverse/IsaacLab)—my favorite framework and simulator at the moment.
 
-Currently, I'm exploring sim-to-real transfer techniques and building generalizable control policies with [Isaac Lab](https://github.com/NVIDIA-Omniverse/IsaacLab)—my favorite framework and simulator at the moment.
+Currently, I'm exploring the best way to combine classical robotic control methods and learning-based methods to achieve 0.2mm precision peg-in-hole assembly while keeping strong pose generalization ability.
 
-Feel free to reach out for a casual chat on:
+Feel free to reach out for a small chat on:
 - Reinforcement Learning
 - Imitation Learning
 - Sim2Real Robotics
