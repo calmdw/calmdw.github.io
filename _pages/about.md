@@ -60,7 +60,7 @@ Feel free to reach out for a small chat on:
 
 </div>
 
----
+<hr style="height: 2px; background-color: #e0e0e0; border: none; margin: 2.5em 0;">
 
 ### *Reinforcement Learning-Based Sequential Control Policy for Multiple Peg-in-Hole Assembly*
 
@@ -85,7 +85,7 @@ Feel free to reach out for a small chat on:
   </div>
 </div>
 
----
+<hr style="height: 2px; background-color: #e0e0e0; border: none; margin: 2.5em 0;">
 
 ### *Self-supervised Fusion of IR and RGB Images for Illumination-Robust Visual Teach and Repeat Navigation*
 
@@ -103,13 +103,6 @@ Feel free to reach out for a small chat on:
     <p><strong>European Conference on Mobile Robots (ECMR), 2023</strong></strong> — <em>Oral Presentation</em></p>
     
     <p>Presents a self-supervised framework for fusing infrared and RGB images in VT&R navigation systems to enable robot localize under extreme chaning illumination conditions. Our method achieves <strong>5% error</strong> for localization under dark night and sun glare conditions.
-    </p>
-
-    <p>
-      Key innovations:<br>
-      • Contrastive learning pipeline bridging RGB/IR domains<br>
-      • Three decision-level fusion strategies<br>
-      • Validation on real-world parking lot dataset<br>
     </p>
 
     <p>
