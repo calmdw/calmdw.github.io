@@ -28,7 +28,9 @@ Feel free to reach out for a small chat on:
 
 ## Publications:
 
-### *Reinforcement Learning-Based Sequential Control Policy for Multiple Peg-in-Hole Assembly*
+---
+
+### *A General Peg-in-Hole Assembly Policy Based on Domain Randomized Reinforcement Learning*
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
 
@@ -60,7 +62,7 @@ Feel free to reach out for a small chat on:
 
 ---
 
-### *SeqPolicy: A Sequential Control Policy for Multi-Step Peg-in-Hole Assembly*
+### *Reinforcement Learning-Based Sequential Control Policy for Multiple Peg-in-Hole Assembly*
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
 
@@ -81,6 +83,40 @@ Feel free to reach out for a small chat on:
     <p>
       📄 <a href="https://www.sciopen.com/article/10.26599/AIR.2024.9150043" target="_blank">Paper</a> &nbsp;|&nbsp;
       💻 <a href="https://github.com/calmdw/SeqPolicy" target="_blank">Code</a> &nbsp;|&nbsp;
+    </p>
+  </div>
+</div>
+
+---
+
+### *Self-supervised Fusion of IR and RGB Images for Illumination-Robust Visual Teach and Repeat Navigation*
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
+
+  <!-- Teaser Image: Matches 38% width ratio -->
+  <img src="https://github.com/user-attachments/assets/ir_rgb_fusion_teaser" 
+       alt="IR-RGB Fusion Teaser" 
+       style="flex: 0 0 38%; max-width: 38%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+  <!-- Text Content -->
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>Xinyu Liu</strong>*, Zdenek Rozsypalek*, Tomas Krajnik</p>
+    <p><em>Technical University of Denmark, Czech Technical University in Prague</em></p>
+    <p><strong>European Conference on Mobile Robots (ECMR), 2023</strong></strong> — <em>Oral Presentation</em></p>
+    
+      Presents a self-supervised framework for fusing infrared and RGB images in VT&R navigation systems. Our method achieves <strong>38% error reduction</strong> in sun glare conditions and maintains robust performance in day-night transitions, without requiring long-term IR datasets.
+    </p>
+
+    <p>
+      Key innovations:<br>
+      • Contrastive learning pipeline bridging RGB/IR domains<br>
+      • Three decision-level fusion strategies<br>
+      • Validation on real-world parking lot dataset<br>
+    </p>
+
+    <p>
+      📄 <a href="https://ieeexplore.ieee.org/document/10163408" target="_blank">Paper</a> &nbsp;|&nbsp;
+      🎥 <a href="#vtr-demo" target="_blank">Navigation Demo</a> &nbsp;|&nbsp;
     </p>
   </div>
 </div>
