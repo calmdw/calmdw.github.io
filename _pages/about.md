@@ -66,9 +66,7 @@ Feel free to reach out for a small chat on:
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
 
-  <!-- Two Teaser Videos - 38% width each -->
-
-<img src="https://github.com/user-attachments/assets/d128fd65-153d-4593-ac69-0566b851627b" width="80%" alt="Generalization Test">
+  <img src="https://github.com/user-attachments/assets/d128fd65-153d-4593-ac69-0566b851627b"
        alt="SeqPolicy" 
        style="flex: 0 0 88%; max-width: 38%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
