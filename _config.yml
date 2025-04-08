@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_naraka.png"
+  avatar           : "image-alignment-300x200.jpg"
   name             : "Xinyu Liu"
   pronouns         : # example: "she/her"  
   bio              : "One day I will land my knowledge into a meaningful product."
