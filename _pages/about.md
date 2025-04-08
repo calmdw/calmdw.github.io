@@ -24,8 +24,6 @@ Feel free to reach out for a small chat on:
 - Imitation Learning
 - Sim2Real
 
----
-
 ## Publications:
 
 <hr style="height: 2px; background-color: #e0e0e0; border: none; margin: 2.5em 0;">
