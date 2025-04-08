@@ -28,7 +28,7 @@ Feel free to reach out for a small chat on:
 
 ## Publications:
 
----
+<hr style="height: 2px; background-color: #e0e0e0; border: none; margin: 2.5em 0;">
 
 ### *A General Peg-in-Hole Assembly Policy Based on Domain Randomized Reinforcement Learning*
 
