@@ -66,15 +66,9 @@ Feel free to reach out for a small chat on:
 
   <!-- Two Teaser Videos - 38% width each -->
 
-<div style="display: flex; justify-content: center; gap: 20px;">
-  <video width="45%" controls>
-    <source src="https://github.com/user-attachments/assets/d982fea1-155d-4a06-9eeb-02cdd2131ed4" type="video/webm">
-    Your browser does not support the video tag.
-  </video>
-  <video width="45%" controls>
-    <source src="https://github.com/user-attachments/assets/f93f0088-5ba8-422f-a071-dc2b1a6f1c36" type="video/webm">
-    Your browser does not support the video tag.
-  </video>
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
+  <img src="https://github.com/calmdw/SeqPolicy/blob/main/Pick.gif" width="45%">
+  <img src="https://github.com/calmdw/SeqPolicy/blob/main/align_insert.gif" width="45%">
 </div>
 
   <!-- Text Content -->
@@ -83,7 +77,7 @@ Feel free to reach out for a small chat on:
     <p><em>Denmark Technical University, University of Liverpool, University of Hamburg</em></p>
     <p><strong>CAAI Artificial Intelligence Research, 2024</strong></p>
 
-    <p><strong>SeqPolicy</strong> proposes a modular control workflow using reinforcement learning to solve multiple peg-in-hole assembly with high precision and strong generalization. The approach breaks down the task into three core sub-policies: pick, align, and insert—each trained individually, enabling robust sequential control in complex geometries.</p>
+    <p><strong>SeqPolicy</strong> proposes a modular control workflow using reinforcement learning to solve multiple peg-in-hole assembly task. The approach breaks down the task into three primitive skills: pick, align, and insert—each trained individually, enabling efficient training and reusable deployment.</p>
 
     <p>
       📄 <a href="https://www.sciopen.com/article/10.26599/AIR.2024.9150043" target="_blank">Paper</a> &nbsp;|&nbsp;
