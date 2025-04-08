@@ -47,11 +47,11 @@ Feel free to reach out for a small chat on:
     <p><strong>34th International Conference on Robotics in Alpe-Adria-Danube Region (RAAD 2025)</strong> — <em>Oral Presentation</em></p>
 
     <p>
-      <strong>GenPiH</strong> is a reinforcement learning-based general policy for peg-in-hole assembly with 6-DOF generalization. Trained using PPO and domain randomization in Isaac Sim, GenPiH achieves nearly 100% success across 8000+ unseen hole poses. It transfers directly to a UR10e robot <em>without any task-specific tuning</em>.
+      <strong>GenPiH</strong> is a reinforcement learning-based general policy for peg-in-hole assembly with 6-DOF generalization. Trained using PPO and domain randomization in Isaac Lab, GenPiH achieves nearly 100% success across 8000+ random hole poses. The trajectory replayed directly on a UR10e robot <em>without any task-specific tuning</em>.
     </p>
 
     <p>
-      🔗 <a href="https://your-paper-link.com" target="_blank">Paper[waiting]</a> &nbsp;|&nbsp;
+      🔗 <a href="https://arxiv.org/abs/2504.04148" target="_blank">Paper</a> &nbsp;|&nbsp;
       💻 <a href="https://github.com/calmdw/genpih" target="_blank">Code</a> &nbsp;|&nbsp;
     </p>
   </div>
