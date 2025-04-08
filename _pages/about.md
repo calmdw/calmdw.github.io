@@ -73,8 +73,8 @@ Feel free to reach out for a small chat on:
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
     <p><strong>Xinyu Liu</strong>, Chao Zeng, Chenguang Yang, Jianwei Zhang</p>
-    <p><em>DTU, University of Liverpool, University of Hamburg</em></p>
-    <p><strong>Published at CAAI Artificial Intelligence Research, 2024</strong></p>
+    <p><em>Denmark Technical University, University of Liverpool, University of Hamburg</em></p>
+    <p><strong>CAAI Artificial Intelligence Research, 2024</strong></p>
 
     <p><strong>SeqPolicy</strong> proposes a modular control workflow using reinforcement learning to solve multiple peg-in-hole assembly with high precision and strong generalization. The approach breaks down the task into three core sub-policies: pick, align, and insert—each trained individually, enabling robust sequential control in complex geometries.</p>
 
