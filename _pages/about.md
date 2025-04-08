@@ -28,7 +28,7 @@ Feel free to reach out for a small chat on:
 
 ## Publications:
 
-### *A General Peg-in-Hole Assembly Policy Based on Domain Randomized Reinforcement Learning*
+### *Reinforcement Learning-Based Sequential Control Policy for Multiple Peg-in-Hole Assembly*
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
 
