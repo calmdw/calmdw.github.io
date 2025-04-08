@@ -94,7 +94,7 @@ Feel free to reach out for a small chat on:
 <div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
 
   <!-- Teaser Image: Matches 38% width ratio -->
-  <img src="https://github.com/user-attachments/assets/a3e02809-2fc3-4294-9fb7-a2c6b4bf127f" 
+  <img src="https://github.com/user-attachments/assets/23832614-3adf-4583-91b7-2829a2c82a26" 
        alt="IR-RGB Fusion Teaser" 
        style="flex: 0 0 38%; max-width: 38%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
