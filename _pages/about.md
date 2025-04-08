@@ -68,9 +68,9 @@ Feel free to reach out for a small chat on:
 
   <!-- Two Teaser Videos - 38% width each -->
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d128fd65-153d-4593-ac69-0566b851627b" width="80%" alt="Generalization Test">
-</p>
+<img src="https://github.com/user-attachments/assets/d128fd65-153d-4593-ac69-0566b851627b" width="80%" alt="Generalization Test">
+       alt="SeqPolicy" 
+       style="flex: 0 0 88%; max-width: 38%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
@@ -96,7 +96,7 @@ Feel free to reach out for a small chat on:
   <!-- Teaser Image: Matches 38% width ratio -->
   <img src="https://github.com/user-attachments/assets/23832614-3adf-4583-91b7-2829a2c82a26" 
        alt="IR-RGB Fusion Teaser" 
-       style="flex: 0 0 38%; max-width: 38%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+       style="flex: 0 0 88%; max-width: 38%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
