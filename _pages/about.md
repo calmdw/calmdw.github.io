@@ -26,7 +26,7 @@ Feel free to reach out for a small chat on:
 
 ---
 
-## Research:
+## Publications:
 
 ### *A General Peg-in-Hole Assembly Policy Based on Domain Randomized Reinforcement Learning*
 
@@ -51,12 +51,48 @@ Feel free to reach out for a small chat on:
     </p>
 
     <p>
-      🔗 <a href="https://arxiv.org/abs/2504.04148" target="_blank">Paper</a> &nbsp;|&nbsp;
+      📄 <a href="https://arxiv.org/abs/2504.04148" target="_blank">Paper</a> &nbsp;|&nbsp;
       💻 <a href="https://github.com/calmdw/genpih" target="_blank">Code</a> &nbsp;|&nbsp;
     </p>
   </div>
 
 </div>
+
+---
+
+### *SeqPolicy: A Sequential Control Policy for Multi-Step Peg-in-Hole Assembly*
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
+
+  <!-- Two Teaser Videos - 38% width each -->
+
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <video width="45%" controls>
+    <source src="https://github.com/user-attachments/assets/d982fea1-155d-4a06-9eeb-02cdd2131ed4" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+  <video width="45%" controls>
+    <source src="https://github.com/user-attachments/assets/f93f0088-5ba8-422f-a071-dc2b1a6f1c36" type="video/webm">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
+  <!-- Text Content -->
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>Xinyu Liu</strong>, Chao Zeng, Chenguang Yang, Jianwei Zhang</p>
+    <p><em>Denmark Technical University, University of Liverpool, University of Hamburg</em></p>
+    <p><strong>CAAI Artificial Intelligence Research, 2024</strong></p>
+
+    <p><strong>SeqPolicy</strong> proposes a modular control workflow using reinforcement learning to solve multiple peg-in-hole assembly with high precision and strong generalization. The approach breaks down the task into three core sub-policies: pick, align, and insert—each trained individually, enabling robust sequential control in complex geometries.</p>
+
+    <p>
+      📄 <a href="https://www.sciopen.com/article/10.26599/AIR.2024.9150043" target="_blank">Paper</a> &nbsp;|&nbsp;
+      💻 <a href="https://github.com/calmdw/SeqPolicy" target="_blank">Code</a> &nbsp;|&nbsp;
+    </p>
+  </div>
+</div>
+
+---
 
 
 ---
@@ -80,8 +116,7 @@ Feel free to reach out for a small chat on:
 
     <p>
       📄 <a href="https://www.sciopen.com/article/10.26599/AIR.2024.9150043" target="_blank">Paper</a> &nbsp;|&nbsp;
-      💻 <a href="https://github.com/YOUR_USERNAME/seqpolicy" target="_blank">Code</a> &nbsp;|&nbsp;
-      🎞️ <a href="https://github.com/YOUR_USERNAME/seqpolicy/assets" target="_blank">Demo Videos</a>
+      💻 <a href="https://github.com/calmdw/SeqPolicy" target="_blank">Code</a> &nbsp;|&nbsp;
     </p>
   </div>
 </div>
