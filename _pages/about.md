@@ -113,8 +113,7 @@ Feel free to reach out for a small chat on:
     </p>
 
     <p>
-      📄 <a href="https://ieeexplore.ieee.org/document/10163408" target="_blank">Paper</a> &nbsp;|&nbsp;
-      🎥 <a href="#vtr-demo" target="_blank">Navigation Demo</a> &nbsp;|&nbsp;
+      📄 <a href="https://ieeexplore.ieee.org/abstract/document/10256333" target="_blank">Paper</a> &nbsp;|&nbsp;
     </p>
   </div>
 </div>
