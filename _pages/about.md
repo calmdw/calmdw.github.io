@@ -96,7 +96,7 @@ Feel free to reach out for a small chat on:
   <div style="flex: 1; min-width: 250px;">
     <p><strong>Xinyu Liu</strong>*, Zdenek Rozsypalek*, Tomas Krajnik</p>
     <p><em>Technical University of Denmark, Czech Technical University in Prague</em></p>
-    <p><strong>European Conference on Mobile Robots (ECMR), 2023</strong></strong> — <em>Oral Presentation</em></p>
+    <p><strong>European Conference on Mobile Robots (ECMR), 2023</strong> — <em>Oral Presentation</em></p>
     
     <p>Presents a self-supervised framework for fusing infrared and RGB images in VT&R navigation systems to enable robot localize under extreme chaning illumination conditions. Our method achieves <strong>5% error</strong> for localization under dark night and sun glare conditions.
     </p>
