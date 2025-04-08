@@ -66,10 +66,9 @@ Feel free to reach out for a small chat on:
 
   <!-- Two Teaser Videos - 38% width each -->
 
-<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
-  <img src="https://github.com/calmdw/SeqPolicy/blob/main/Pick.gif" width="45%">
-  <img src="https://github.com/calmdw/SeqPolicy/blob/main/align_insert.gif" width="45%">
-</div>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d128fd65-153d-4593-ac69-0566b851627b" width="80%" alt="Generalization Test">
+</p>
 
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
