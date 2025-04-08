@@ -57,3 +57,35 @@ Feel free to reach out for a small chat on:
   </div>
 
 </div>
+
+
+---
+
+### *SeqPolicy: A Sequential Control Policy for Multi-Step Peg-in-Hole Assembly*
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
+
+  <!-- Teaser Video or GIF -->
+  <video autoplay loop muted playsinline style="flex: 0 0 40%; max-width: 40%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+    <source src="https://github.com/user-attachments/assets/d982fea1-155d-4a06-9eeb-02cdd2131ed4" type="video/webm">
+  </video>
+
+  <!-- Text Content -->
+  <div style="flex: 1; min-width: 250px;">
+    <p><strong>Xinyu Liu</strong>, Chao Zeng, Chenguang Yang, Jianwei Zhang</p>
+    <p><em>DTU, University of Liverpool, University of Hamburg</em></p>
+    <p><strong>Published at CAAI Artificial Intelligence Research, 2024</strong></p>
+
+    <p><strong>SeqPolicy</strong> proposes a modular control workflow using reinforcement learning to solve multiple peg-in-hole assembly with high precision and strong generalization. The approach breaks down the task into three core sub-policies: pick, align, and insert—each trained individually, enabling robust sequential control in complex geometries.</p>
+
+    <p>
+      📄 <a href="https://www.sciopen.com/article/10.26599/AIR.2024.9150043" target="_blank">Paper</a> &nbsp;|&nbsp;
+      💻 <a href="https://github.com/YOUR_USERNAME/seqpolicy" target="_blank">Code</a> &nbsp;|&nbsp;
+      🎞️ <a href="https://github.com/YOUR_USERNAME/seqpolicy/assets" target="_blank">Demo Videos</a>
+    </p>
+  </div>
+</div>
+
+---
+
+
