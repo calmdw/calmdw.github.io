@@ -45,7 +45,7 @@ Feel free to reach out for a small chat on:
     <p><strong>34th International Conference on Robotics in Alpe-Adria-Danube Region (RAAD 2025)</strong> — <em>Oral Presentation</em></p>
 
     <p>
-      <strong>GenPiH</strong> is a reinforcement learning-based general policy for peg-in-hole assembly with 6-DOF generalization. Trained using PPO and domain randomization in Isaac Lab, GenPiH achieves nearly 100% success across 8000+ random hole poses. The trajectory replayed directly on a UR10e robot <em>without any task-specific tuning</em>.
+      <strong>GenPiH</strong> is a reinforcement learning-based general policy for peg-in-hole assembly with 6-DOF generalization. Trained using PPO and domain randomization in Isaac Lab, GenPiH achieves nearly 100% success across 8000+ random hole poses in simulation. The trajectory replayed directly on a UR10e robot <em>without any task-specific tuning</em>.
     </p>
 
     <p>
@@ -71,8 +71,10 @@ Feel free to reach out for a small chat on:
     <p><strong>Xinyu Liu</strong>, Chao Zeng, Chenguang Yang, Jianwei Zhang</p>
     <p><em>Denmark Technical University, University of Liverpool, University of Hamburg</em></p>
     <p><strong>CAAI Artificial Intelligence Research, 2024</strong></p>
-
-    <p><strong>SeqPolicy</strong> proposes a modular control workflow using reinforcement learning to solve multiple peg-in-hole assembly task. The approach breaks down the task into three primitive skills: pick, align, and insert—each trained individually, enabling efficient training and reusable deployment.</p>
+    
+    <p>
+    It is hard to have a super-hero model to deal with long-term/complex automation tasks, so let's build one expert team!
+    <strong>SeqPolicy</strong> proposes a modular control workflow using reinforcement learning to solve multiple peg-in-hole assembly task. The approach breaks down the task into three primitive skills: pick, align, and insert—each trained individually, enabling efficient training and reusable deployment.</p>
 
     <p>
       📄 <a href="https://www.sciopen.com/article/10.26599/AIR.2024.9150043" target="_blank">Paper</a> &nbsp;|&nbsp;
@@ -98,7 +100,9 @@ Feel free to reach out for a small chat on:
     <p><em>Technical University of Denmark, Czech Technical University in Prague</em></p>
     <p><strong>European Conference on Mobile Robots (ECMR), 2023</strong> — <em>Oral Presentation</em></p>
     
-    <p>Presents a self-supervised framework for fusing infrared and RGB images in VT&R navigation systems to enable robot to localize under extreme changing illumination conditions. Our method achieves <strong>5% error</strong> for localization under dark night and sun glare conditions.
+    <p>
+    How to make a robot recognize the same place it has passed 12 hours ago?
+    Presents a self-supervised framework for fusing infrared and RGB images in VT&R navigation systems to enable robot to localize under extreme changing illumination conditions. Our method achieves <strong>5% error</strong> for localization under dark night and sun glare conditions.
     </p>
 
     <p>
