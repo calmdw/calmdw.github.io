@@ -17,7 +17,7 @@ Previously, I held research internships at the [AI Center, CVUT](https://www.aic
 
 My work focuses on **robot learning** and **robotic manipulation**, recently using reinforcement learning (RL) to achieve **generalizable** and **high-precision robotic assembly** with **Isaac Lab(Isaac Sim)**—my favorite framework and simulator at the moment.
 
-Currently, I'm exploring the best way to combine classical robotic control and learning-based methods to achieve 0.2mm precision peg-in-hole assembly while keeping strong pose generalization ability.
+Currently, I'm exploring the best way to combine classical robotic control and learning-based methods to achieve 0.2mm tolerance peg-in-hole assembly while keeping strong pose generalization ability.
 
 Feel free to reach out for a small chat on:
 - Reinforcement Learning
@@ -98,7 +98,7 @@ Feel free to reach out for a small chat on:
     <p><em>Technical University of Denmark, Czech Technical University in Prague</em></p>
     <p><strong>European Conference on Mobile Robots (ECMR), 2023</strong> — <em>Oral Presentation</em></p>
     
-    <p>Presents a self-supervised framework for fusing infrared and RGB images in VT&R navigation systems to enable robot localize under extreme chaning illumination conditions. Our method achieves <strong>5% error</strong> for localization under dark night and sun glare conditions.
+    <p>Presents a self-supervised framework for fusing infrared and RGB images in VT&R navigation systems to enable robot to localize under extreme changing illumination conditions. Our method achieves <strong>5% error</strong> for localization under dark night and sun glare conditions.
     </p>
 
     <p>
