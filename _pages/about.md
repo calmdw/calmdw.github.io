@@ -71,9 +71,9 @@ Feel free to reach out for a small chat on:
     <p><strong>Xinyu Liu</strong>, Chao Zeng, Chenguang Yang, Jianwei Zhang</p>
     <p><em>Denmark Technical University, University of Liverpool, University of Hamburg</em></p>
     <p><strong>CAAI Artificial Intelligence Research, 2024</strong></p>
-    
+
+    <p> It is hard to have a super-hero model to deal with long-term/complex automation tasks, so let's build one expert team!</p>
     <p>
-    It is hard to have a super-hero model to deal with long-term/complex automation tasks, so let's build one expert team!
     <strong>SeqPolicy</strong> proposes a modular control workflow using reinforcement learning to solve multiple peg-in-hole assembly task. The approach breaks down the task into three primitive skills: pick, align, and insert—each trained individually, enabling efficient training and reusable deployment.</p>
 
     <p>
@@ -99,9 +99,9 @@ Feel free to reach out for a small chat on:
     <p><strong>Xinyu Liu</strong>*, Zdenek Rozsypalek*, Tomas Krajnik</p>
     <p><em>Technical University of Denmark, Czech Technical University in Prague</em></p>
     <p><strong>European Conference on Mobile Robots (ECMR), 2023</strong> — <em>Oral Presentation</em></p>
-    
+
+    <p>How to make a robot recognize the same place that it just passed in daylight while running at night?</p>
     <p>
-    How to make a robot recognize the same place that it just passed in daylight while running at night?
     Presents a self-supervised framework for fusing infrared and RGB images in VT&R navigation systems to enable robot to localize under extreme changing illumination conditions. Our method achieves <strong>5% error</strong> for localization under dark night and sun glare conditions.
     </p>
 
