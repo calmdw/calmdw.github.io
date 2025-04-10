@@ -49,7 +49,6 @@ Feel free to reach out for a small chat on:
     </p>
 
     <p>
-      📄 <a href="https://arxiv.org/abs/2504.04148" target="_blank">Paper</a> &nbsp;|&nbsp;
       💻 <a href="https://github.com/calmdw/genpih" target="_blank">Code</a> &nbsp;|&nbsp;
     </p>
   </div>
