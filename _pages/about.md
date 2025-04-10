@@ -42,7 +42,7 @@ Feel free to reach out for a small chat on:
   <div style="flex: 1; min-width: 250px;">
     <p><strong>Xinyu Liu</strong>, Aljaž Kramberger, Leon Bodenhagen</p>
     <p><em>The Maersk Mc-Kinney Moller Institute, University of Southern Denmark</em></p>
-    <p><strong>34th International Conference on Robotics in Alpe-Adria-Danube Region (RAAD 2025)</strong> — <em>Oral Presentation</em></p>
+    <p>accepted</p>
 
     <p>
       <strong>GenPiH</strong> is a reinforcement learning-based general policy for peg-in-hole assembly with 6-DOF generalization. Trained using PPO and domain randomization in Isaac Lab, GenPiH achieves nearly 100% success across 8000+ random hole poses in simulation. The trajectory replayed directly on a UR10e robot <em>without any task-specific tuning</em>.
