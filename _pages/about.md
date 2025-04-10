@@ -136,6 +136,7 @@ Feel free to reach out for a small chat on:
     </p>
 
     <p>
+      📄 <a href="https://backend.orbit.dtu.dk/ws/portalfiles/portal/336098585/Liu_et_al._2023_Roskilde_Fjord_og_muslinge-rev_removed.pdf" target="_blank">Paper</a> &nbsp;|&nbsp;
       💻 <a href="https://github.com/calmdw/Detecting-Potential-Mussel-Reef-in-ROV-Videos-Using-Deep-Learning/tree/main" target="_blank">Code</a>
     </p>
   </div>
