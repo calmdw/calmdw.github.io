@@ -124,24 +124,23 @@ Feel free to reach out for a small chat on:
 
 <div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
 
-  <!-- Teaser Image: Matches 38% width ratio -->
-  <img src="https://github.com/calmdw/Detecting-Potential-Mussel-Reef-in-ROV-Videos-Using-Deep-Learning/blob/main/example.gif" 
+  <!-- Teaser Image: Matches 88% width ratio -->
+  <img src="https://raw.githubusercontent.com/calmdw/Detecting-Potential-Mussel-Reef-in-ROV-Videos-Using-Deep-Learning/main/example.gif" 
        alt="mussel reef" 
        style="flex: 0 0 88%; max-width: 88%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
-    <p><strong>Xinyu Liu</strong>*, Zdenek Rozsypalek*, Tomas Krajnik</p>
-    <p><em>Technical University of Denmark</em></p>
     <p>
-     We propose one method based on YOLO algorithm to detect mussels in the videos, roughly estimate their coverage automatically, and indicate potential mussel reefs. Additionally, one dataset, including 1000 labeled mussel images, was constructed to bridge the gap in marine datasets.
+     We propose a method based on the YOLO algorithm to detect mussels in videos, estimate their coverage, and identify potential mussel reefs. We also built a dataset of 1000 labeled mussel images to support future marine research.
     </p>
 
     <p>
-      💻 <a href="https://github.com/calmdw/Detecting-Potential-Mussel-Reef-in-ROV-Videos-Using-Deep-Learning/tree/main" target="_blank">Code</a> &nbsp;|&nbsp;
+      💻 <a href="https://github.com/calmdw/Detecting-Potential-Mussel-Reef-in-ROV-Videos-Using-Deep-Learning/tree/main" target="_blank">Code</a>
     </p>
   </div>
 </div>
+
 
 
 
