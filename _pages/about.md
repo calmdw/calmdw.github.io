@@ -27,7 +27,6 @@ Feel free to reach out for a small chat on:
 ### New Achievement!
 
 <div style="text-align: center; margin-top: 1.5em;">
-  <h3>🎥 Demo Video: GenPiH in Action</h3>
   <iframe width="560" height="315" src="https://github.com/user-attachments/assets/6c1a233e-7bcc-4311-84d8-82cfcd288531" 
     title="GenPiH Video Demo" frameborder="0" allowfullscreen></iframe>
 </div>
