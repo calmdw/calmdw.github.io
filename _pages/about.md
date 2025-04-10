@@ -24,6 +24,11 @@ Feel free to reach out for a small chat on:
 - Imitation Learning
 - Sim2Real
 
+### New Achievement!
+
+https://github.com/user-attachments/assets/64d0e0d3-1e3c-47c1-8bdc-9e8a4cc9edbd
+
+
 ## Publications
 
 ### *A General Peg-in-Hole Assembly Policy Based on Domain Randomized Reinforcement Learning*
