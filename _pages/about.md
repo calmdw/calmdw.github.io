@@ -123,12 +123,7 @@ Feel free to reach out for a small chat on:
 
 ### *Deep Learning assists detection of mussel reefs in Roskilde Fjord*
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
-
-  <!-- Teaser Image: Matches 38% width ratio -->
-  <img src="https://github.com/calmdw/Detecting-Potential-Mussel-Reef-in-ROV-Videos-Using-Deep-Learning/blob/main/example.gif" 
-       alt="mussel reef Teaser" 
-       style="flex: 0 0 88%; max-width: 88%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+![example](https://github.com/3505473356/Detecting-Potential-Mussel-Reef-in-ROV-Videos-Using-Deep-Learning/blob/main/example.gif)
 
   <!-- Text Content -->
     <p>
