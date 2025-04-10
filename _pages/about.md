@@ -26,9 +26,8 @@ Feel free to reach out for a small chat on:
 
 ### New Achievement!
 
-
-  <img src="https://github.com/user-attachments/assets/d128fd65-153d-4593-ac69-0566b851627b"
-       alt="SeqPolicy" 
+  <img src="https://github.com/user-attachments/assets/6c1a233e-7bcc-4311-84d8-82cfcd288531"
+       alt="PiH" 
        style="flex: 0 0 88%; max-width: 88%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 
