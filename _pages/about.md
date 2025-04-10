@@ -131,6 +131,8 @@ Feel free to reach out for a small chat on:
 
   <!-- Text Content -->
   <div style="flex: 1; min-width: 250px;">
+    <p><strong>Xinyu Liu</strong>*, Zdenek Rozsypalek*, Tomas Krajnik</p>
+    <p><em>Technical University of Denmark</em></p>
     <p>
      We propose one method based on YOLO algorithm to detect mussels in the videos, roughly estimate their coverage automatically, and indicate potential mussel reefs. Additionally, one dataset, including 1000 labeled mussel images, was constructed to bridge the gap in marine datasets.
     </p>
