@@ -26,7 +26,7 @@ Feel free to reach out for a small chat on:
 
 ### New Achievement!
 
-https://github.com/user-attachments/assets/64d0e0d3-1e3c-47c1-8bdc-9e8a4cc9edbd
+https://github.com/user-attachments/assets/b144bd5c-48e3-4e96-9ae5-3e97d7950a0a
 
 
 ## Publications
