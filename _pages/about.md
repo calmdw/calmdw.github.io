@@ -25,10 +25,7 @@ Feel free to reach out for a small chat on:
 - Sim2Real
 
 ### New Achievement!
-
-  <img src="https://github.com/user-attachments/assets/6c1a233e-7bcc-4311-84d8-82cfcd288531"
-       alt="PiH" 
-       style="flex: 0 0 88%; max-width: 88%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+https://github.com/user-attachments/assets/6c1a233e-7bcc-4311-84d8-82cfcd288531
 
 
 ## Publications
@@ -118,4 +115,28 @@ Feel free to reach out for a small chat on:
 </div>
 
 ---
+
+### *Deep Learning assists detection of mussel reefs in Roskilde Fjord*
+
+<div style="display: flex; flex-wrap: wrap; gap: 1.2em; margin: 2em 0; align-items: center;">
+
+  <!-- Teaser Image: Matches 38% width ratio -->
+  <img src="https://github.com/calmdw/Detecting-Potential-Mussel-Reef-in-ROV-Videos-Using-Deep-Learning/blob/main/example.gif" 
+       alt="mussel reef Teaser" 
+       style="flex: 0 0 88%; max-width: 88%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+  <!-- Text Content -->
+    <p>
+    We propose one method based on YOLO algorithm to detect mussels in the videos, roughly estimate their coverage automatically, and indicate potential mussel reefs. Additionally, one dataset, including 1000 labeled mussel images, was constructed to bridge the gap in marine datasets.
+    </p>
+
+    <p>
+      💻 <a href="https://github.com/calmdw/Detecting-Potential-Mussel-Reef-in-ROV-Videos-Using-Deep-Learning/tree/main" target="_blank">Code</a> &nbsp;|&nbsp;
+    </p>
+  </div>
+</div>
+
+---
+
+
 
