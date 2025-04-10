@@ -26,7 +26,10 @@ Feel free to reach out for a small chat on:
 
 ### New Achievement!
 
-https://github.com/user-attachments/assets/b144bd5c-48e3-4e96-9ae5-3e97d7950a0a
+
+  <img src="https://github.com/user-attachments/assets/d128fd65-153d-4593-ac69-0566b851627b"
+       alt="SeqPolicy" 
+       style="flex: 0 0 88%; max-width: 88%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
 
 ## Publications
