@@ -144,5 +144,7 @@ Feel free to reach out for a small chat on:
 
 <a href="https://info.flagcounter.com/3VQ2"><img src="https://s01.flagcounter.com/count2/3VQ2/bg_FFFFFF/txt_000000/border_CCCCCC/columns_2/maxflags_10/viewers_0/labels_0/pageviews_0/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
 
+<a href="https://clustrmaps.com/site/1c60r"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=jdKmcJP6gV_COpF3-5Nvpsc_buHuDv7RVqg0F7XfzvI&cl=ffffff" /></a>
+
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=jdKmcJP6gV_COpF3-5Nvpsc_buHuDv7RVqg0F7XfzvI&cl=ffffff&w=a"></script>
 
