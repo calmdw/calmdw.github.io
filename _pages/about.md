@@ -34,10 +34,7 @@ Feel free to reach out for a small chat on:
 
 ### summarize of generalization test and precision test
 
-<div style="text-align: center; margin-top: 1.5em;">
-  <iframe width="660" height="315" src="https://github.com/user-attachments/assets/5eb101b5-64a8-49d0-b7e5-36c586eee26d" 
-    title="GenPiH Video Demo" frameborder="0" allowfullscreen></iframe>
-</div>
+https://github.com/user-attachments/assets/5eb101b5-64a8-49d0-b7e5-36c586eee26d
 
 ## Publications
 
